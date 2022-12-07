@@ -75,7 +75,7 @@ const animationProjectsCount = () =>{
             </article>
            
             <article data-special>
-              <p> Contact </p>
+              <p> Contact me</p>
               <span>shubhamdabral.in@gmail.com</span>
             </article>
           </aside>
